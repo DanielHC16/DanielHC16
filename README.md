@@ -1,6 +1,5 @@
-# 👋 Hey there! I'm **@DanielHC16**  
+# Hey there! I'm Daniel 8)   
 
-🎯 **Daniel is: **  
 A passionate **Data Engineering, Software Development, and Cloud Computing enthusiast**, diving deep into code and innovation to build solutions that matter!  
 
 ## 🌟 **What I’m Up To**  
