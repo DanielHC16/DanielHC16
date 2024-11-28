@@ -1,4 +1,4 @@
-# Hey there! I'm Daniel 🌊
+# 🌊 What's up? I'm Daniel 
 
 A passionate **Data Engineering, Software Development, and Cloud Computing enthusiast**, diving deep into code and innovation to build solutions that matter!  
 
@@ -12,14 +12,15 @@ Currently sharpening my skills in:
 ---
 ## 🌟 **GitHub Stats**  
 
-<div style="display: flex; justify-content: center; gap: 10px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=DanielHC16&show_icons=true&count_private=true&theme=codeSTACKr&include_all_commits=true&hide_border=true&custom_title=My%20GitHub%20Stats" width="42%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DanielHC16&theme=codeSTACKr&hide_border=true" width="44.4%" />
+<div style="display: flex; justify-content: space-between; align-items: center; gap: 20px; flex-wrap: wrap;">
+  <img src="https://github-readme-stats.vercel.app/api?username=DanielHC16&show_icons=true&count_private=true&theme=codeSTACKr&include_all_commits=true&hide_border=true&custom_title=My%20GitHub%20Stats" style="width: 45%; min-width: 300px;" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DanielHC16&theme=codeSTACKr&hide_border=true" style="width: 45%; min-width: 300px;" />
 </div>
 
-<div style="display: flex; justify-content: center;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielHC16&layout=compact&theme=codeSTACKr&hide_border=true" width="30%" />
+<div style="display: flex; justify-content: center; margin-top: 20px;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielHC16&layout=compact&theme=codeSTACKr&hide_border=true" style="width: 30%; min-width: 250px;" />
 </div>
+
 
 ---
 Always excited to **collaborate** on cool projects—let's make something amazing together!
