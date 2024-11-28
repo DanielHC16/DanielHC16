@@ -15,6 +15,7 @@ Currently sharpening my skills in:
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DanielHC16&layout=compact&theme=radical)
 
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DanielHC16&theme=radical)
   
 Always excited to **collaborate** on cool projects—let's make something amazing together!
 
