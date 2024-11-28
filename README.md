@@ -13,7 +13,7 @@ Currently sharpening my skills in:
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=DanielHC16&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username==DanielHC16&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DanielHC16&layout=compact&theme=radical)
 
   
 Always excited to **collaborate** on cool projects—let's make something amazing together!
