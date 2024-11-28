@@ -11,14 +11,28 @@ Currently sharpening my skills in:
 ---
 ## 🌟 **GitHub Stats**  
 
+### Total Stats:
+- **Total Stars Earned**: ![Total Stars](https://img.shields.io/badge/Total%20Stars-0-orange?style=flat-square)
+- **Total Commits (2024)**: ![Total Commits](https://img.shields.io/badge/Total%20Commits-119-blue?style=flat-square)
+- **Total PRs**: ![Total PRs](https://img.shields.io/badge/Total%20PRs-17-green?style=flat-square)
+- **Total Issues**: ![Total Issues](https://img.shields.io/badge/Total%20Issues-3-red?style=flat-square)
+
+### GitHub Stats:
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=DanielHC16&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical&include_all_commits=true&hide_border=true&custom_title=My%20GitHub%20Stats)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DanielHC16&layout=compact&theme=radical)
+### GitHub Streak:
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DanielHC16&theme=radical&hide_border=true)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DanielHC16&theme=radical)
+### Total Contributions:
+![GitHub Contributions](https://github-readme-activity-graph.cyclic.app/graph?username=DanielHC16&theme=radical&hide_border=true)
 
+### Top Languages Used:
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DanielHC16&layout=compact&theme=radical&hide_border=true)
+
+### GitHub Achievements:
 ![GitHub Achievements](https://github-profile-trophy.vercel.app/?username=DanielHC16&theme=radical&no-frame=true&title=commits,contributions,prs)
 
+---
   
 Always excited to **collaborate** on cool projects—let's make something amazing together!
 
