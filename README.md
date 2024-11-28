@@ -29,9 +29,6 @@ Currently sharpening my skills in:
 ### Top Languages Used:
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DanielHC16&layout=compact&theme=radical&hide_border=true)
 
-### GitHub Achievements:
-![GitHub Achievements](https://github-profile-trophy.vercel.app/?username=DanielHC16&theme=radical&no-frame=true&title=commits,contributions,prs)
-
 ---
   
 Always excited to **collaborate** on cool projects—let's make something amazing together!
