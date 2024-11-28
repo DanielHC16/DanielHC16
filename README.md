@@ -23,9 +23,6 @@ Currently sharpening my skills in:
 ### GitHub Streak:
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DanielHC16&theme=radical&hide_border=true)
 
-### Total Contributions:
-![GitHub Contributions](https://github-readme-activity-graph.cyclic.app/graph?username=DanielHC16&theme=radical&hide_border=true)
-
 ### Top Languages Used:
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DanielHC16&layout=compact&theme=radical&hide_border=true)
 
