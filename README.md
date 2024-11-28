@@ -11,13 +11,8 @@ Currently sharpening my skills in:
 ---
 ## 🌟 **GitHub Stats**  
 
-### GitHub Stats:
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=DanielHC16&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical&include_all_commits=true&hide_border=true&custom_title=My%20GitHub%20Stats)
-
-### GitHub Streak:
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DanielHC16&theme=radical&hide_border=true)
-
-### Top Languages Used:
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DanielHC16&layout=compact&theme=radical&hide_border=true)
 
 ---
