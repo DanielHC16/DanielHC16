@@ -11,12 +11,6 @@ Currently sharpening my skills in:
 ---
 ## 🌟 **GitHub Stats**  
 
-### Total Stats:
-- **Total Stars Earned**: ![Total Stars](https://img.shields.io/badge/Total%20Stars-0-orange?style=flat-square)
-- **Total Commits (2024)**: ![Total Commits](https://img.shields.io/badge/Total%20Commits-119-blue?style=flat-square)
-- **Total PRs**: ![Total PRs](https://img.shields.io/badge/Total%20PRs-17-green?style=flat-square)
-- **Total Issues**: ![Total Issues](https://img.shields.io/badge/Total%20Issues-3-red?style=flat-square)
-
 ### GitHub Stats:
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=DanielHC16&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical&include_all_commits=true&hide_border=true&custom_title=My%20GitHub%20Stats)
 
