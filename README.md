@@ -14,8 +14,8 @@ Currently sharpening my skills in:
 ## 🌟 **GitHub Stats**  
 
 <div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
-  <img src="https://github-readme-stats.vercel.app/api?username=DanielHC16&show_icons=true&count_private=true&theme=codeSTACKr&include_all_commits=true&hide_border=true&custom_title=My%20GitHub%20Stats" style="width: 45.5%;" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DanielHC16&theme=codeSTACKr&hide_border=true" style="width: 46.5%;" />
+  <img src="https://github-readme-stats.vercel.app/api?username=DanielHC16&show_icons=true&count_private=true&theme=codeSTACKr&include_all_commits=true&hide_border=true&custom_title=My%20GitHub%20Stats" style="width: 44.5%;" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DanielHC16&theme=codeSTACKr&hide_border=true" style="width: 45.5%;" />
 </div>
 
 <div style="display: flex; justify-content: center; margin-top: 20px;">
