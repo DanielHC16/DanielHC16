@@ -13,12 +13,12 @@ Currently sharpening my skills in:
 ## 🌟 **GitHub Stats**  
 
 <div style="display: flex; justify-content: center; gap: 10px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=DanielHC16&show_icons=true&count_private=true&theme=ayu-mirage&include_all_commits=true&hide_border=true&custom_title=My%20GitHub%20Stats" width="42%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DanielHC16&theme=ayu-mirage&hide_border=true" width="44.4%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=DanielHC16&show_icons=true&count_private=true&theme=nord&include_all_commits=true&hide_border=true&custom_title=My%20GitHub%20Stats" width="42%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DanielHC16&theme=nord&hide_border=true" width="44.4%" />
 </div>
 
 <div style="display: flex; justify-content: center;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielHC16&layout=compact&theme=ayu-mirage&hide_border=true" width="30%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielHC16&layout=compact&theme=nord&hide_border=true" width="30%" />
 </div>
 
 ---
