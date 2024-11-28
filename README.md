@@ -14,7 +14,7 @@ Currently sharpening my skills in:
 
 <div style="display: flex; justify-content: space-between; align-items: center; gap: 20px; flex-wrap: wrap;">
   <img src="https://github-readme-stats.vercel.app/api?username=DanielHC16&show_icons=true&count_private=true&theme=codeSTACKr&include_all_commits=true&hide_border=true&custom_title=My%20GitHub%20Stats" style="width: 45%; min-width: 300px;" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DanielHC16&theme=codeSTACKr&hide_border=true" style="width: 45%; min-width: 300px;" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DanielHC16&theme=codeSTACKr&hide_border=true" style="width: 45%; min-width: 310px;" />
 </div>
 
 <div style="display: flex; justify-content: center; margin-top: 20px;">
