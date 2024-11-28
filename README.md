@@ -14,12 +14,12 @@ Currently sharpening my skills in:
 ## 🌟 **GitHub Stats**  
 
 <div style="display: flex; justify-content: center; flex-wrap: wrap;">
-  <img src="https://github-readme-stats.vercel.app/api?username=DanielHC16&show_icons=true&count_private=true&theme=codeSTACKr&include_all_commits=true&hide_border=true&custom_title=My%20GitHub%20Stats" style="width: 45;" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DanielHC16&theme=codeSTACKr&hide_border=true" style="width: 45;" />
+  <img src="https://github-readme-stats.vercel.app/api?username=DanielHC16&show_icons=true&count_private=true&theme=codeSTACKr&include_all_commits=true&hide_border=true&custom_title=My%20GitHub%20Stats" height="150"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DanielHC16&theme=codeSTACKr&hide_border=true" height="150"/>
 </div>
 
 <div style="display: flex; justify-content: center;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielHC16&layout=compact&theme=codeSTACKr&hide_border=true" style="width: 30%;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielHC16&layout=compact&theme=codeSTACKr&hide_border=true" height="150"/>
 </div>
 
 ---
