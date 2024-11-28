@@ -11,11 +11,12 @@ Currently sharpening my skills in:
 ---
 ## 🌟 **GitHub Stats**  
 
-<div style="display: flex; justify-content: space-between; gap: 20px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=DanielHC16&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical&include_all_commits=true&hide_border=true&custom_title=My%20GitHub%20Stats" width="32%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DanielHC16&theme=radical&hide_border=true" width="32%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielHC16&layout=compact&theme=radical&hide_border=true" width="32%" />
+<div style="display: flex; justify-content: center; gap: 20px;">
+  <img src="https://github-readme-stats.vercel.app/api?username=DanielHC16&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical&include_all_commits=true&hide_border=true&custom_title=My%20GitHub%20Stats" width="33%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DanielHC16&theme=radical&hide_border=true" width="33%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielHC16&layout=compact&theme=radical&hide_border=true" width="33%" />
 </div>
+
 
 ---
 Always excited to **collaborate** on cool projects—let's make something amazing together!
