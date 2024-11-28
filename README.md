@@ -2,27 +2,28 @@
 
 A passionate **Data Engineering, Software Development, and Cloud Computing enthusiast**, diving deep into code and innovation to build solutions that matter!  
 
-Got it! Here’s the updated version using the camo.githubusercontent.com icons:  
-
 ---
 
 ## 🌟 **What I’m Up To**  
 Currently sharpening my skills in:  
-![Python](https://camo.githubusercontent.com/4c446db51b83bad7351c3e992936fd6e9414bdebda25927d0699ea48c432e558/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f507974686f6e2d2532333432423841432e7376673f7374796c653d666c6174266c6f676f3d707974686f6e266c6f676f436f6c6f723d7768697465)  
-![JavaScript](https://camo.githubusercontent.com/4c446db51b83bad7351c3e992936fd6e9414bdebda25927d0699ea48c432e558/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a6176617363726970742d2532334637444631452e7376673f7374796c653d666c6174266c6f676f3d6a617661736372697074266c6f676f436f6c6f723d626c61636b)  
-![Java](https://camo.githubusercontent.com/4c446db51b83bad7351c3e992936fd6e9414bdebda25927d0699ea48c432e558/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a6176612d2532333030373339362e7376673f7374796c653d666c6174266c6f676f3d6a617661266c6f676f436f6c6f723d7768697465)  
-![C](https://camo.githubusercontent.com/4c446db51b83bad7351c3e992936fd6e9414bdebda25927d0699ea48c432e558/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f432d2532334138423943432e7376673f7374796c653d666c6174266c6f676f3d63266c6f676f436f6c6f723d626c61636b)  
-![C#](https://camo.githubusercontent.com/4c446db51b83bad7351c3e992936fd6e9414bdebda25927d0699ea48c432e558/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f432532332d2532333233393132302e7376673f7374796c653d666c6174266c6f676f3d632d7368617270266c6f676f436f6c6f723d7768697465)  
-![SQL](https://camo.githubusercontent.com/4c446db51b83bad7351c3e992936fd6e9414bdebda25927d0699ea48c432e558/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f53514c2d2532333038413646462e7376673f7374796c653d666c6174266c6f676f3d6d6963726f736f66742d73716c2d736572766572266c6f676f436f6c6f723d7768697465)  
-![PostgreSQL](https://camo.githubusercontent.com/4c446db51b83bad7351c3e992936fd6e9414bdebda25927d0699ea48c432e558/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f506f737467726553514c2d2532333432413633372e7376673f7374796c653d666c6174266c6f676f3d706f737467726573716c266c6f676f436f6c6f723d7768697465)  
-![HTML](https://camo.githubusercontent.com/4c446db51b83bad7351c3e992936fd6e9414bdebda25927d0699ea48c432e558/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f48544d4c2d2532334533344632362e7376673f7374796c653d666c6174266c6f676f3d68746d6c35266c6f676f436f6c6f723d7768697465)  
-![CSS](https://camo.githubusercontent.com/4c446db51b83bad7351c3e992936fd6e9414bdebda25927d0699ea48c432e558/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4353532d2532333135373242362e7376673f7374796c653d666c6174266c6f676f3d63737333266c6f676f436f6c6f723d7768697465)  
-![Git](https://camo.githubusercontent.com/4c446db51b83bad7351c3e992936fd6e9414bdebda25927d0699ea48c432e558/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4769742d2532334630353033322e7376673f7374796c653d666c6174266c6f676f3d676974266c6f676f436f6c6f723d7768697465)  
-![AWS](https://camo.githubusercontent.com/4c446db51b83bad7351c3e992936fd6e9414bdebda25927d0699ea48c432e558/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4157532d2532334646393930302e7376673f7374796c653d666c6174266c6f676f3d616d617a6f6e617773266c6f676f436f6c6f723d7768697465)  
-![Firebase](https://camo.githubusercontent.com/4c446db51b83bad7351c3e992936fd6e9414bdebda25927d0699ea48c432e558/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f46697265626173652d2532334646374430302e7376673f7374796c653d666c6174266c6f676f3d6669726562617365266c6f676f436f6c6f723d7768697465)  
-![Pandas](https://camo.githubusercontent.com/4c446db51b83bad7351c3e992936fd6e9414bdebda25927d0699ea48c432e558/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f50616e6461732d2532333233363739312e7376673f7374796c653d666c6174266c6f676f3d70616e646173266c6f676f436f6c6f723d7768697465)  
-![Numpy](https://camo.githubusercontent.com/4c446db51b83bad7351c3e992936fd6e9414bdebda25927d0699ea48c432e558/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4e756d70792d2532333030334632412e7376673f7374796c653d666c6174266c6f676f3d6e756d7079266c6f676f436f6c6f723d7768697465)  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)  
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)  
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)  
+![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white)  
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)  
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)  
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)  
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)  
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)  
 
+---
+
+These badges are straightforward to use and should work across Markdown-supported platforms!
 ---
   
 Always excited to **collaborate** on cool projects—let's make something amazing together!
