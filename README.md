@@ -12,7 +12,7 @@ Currently sharpening my skills in:
 ## 🌟 **GitHub Stats**  
 
 <div style="display: flex; justify-content: center; gap: 10px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=DanielHC16&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical&include_all_commits=true&hide_border=true&custom_title=My%20GitHub%20Stats" width="53%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=DanielHC16&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical&include_all_commits=true&hide_border=true&custom_title=My%20GitHub%20Stats" width="52.5%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=DanielHC16&theme=radical&hide_border=true" width="40%" />
 </div>
 
