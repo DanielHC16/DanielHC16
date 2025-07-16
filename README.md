@@ -19,9 +19,6 @@
 
 ###
 
-<img align="right" height="150" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2Q2aTIxNDMzaDNhZGpwcHF2N3pjczJ4YTRjZ2dvMXhpc3NlaTZwbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lJNoBCvQYp7nq/giphy.gif"  />
-
-
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=DanielHC16&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=merko&locale=en&hide_border=false&order=1&custom_title=My%20GitHub%20Stats" height="160" alt="stats graph" />
   
@@ -105,20 +102,21 @@
 
 ###
 
-<div align="left">
-  <a href="https://www.facebook.com/hardy.0777" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="facebook logo"  />
+<div align="left" style="display: flex; gap: 8px; flex-wrap: wrap;">
+  <a href="https://www.facebook.com/hardy.0777" target="_blank" title="Facebook">
+    <img src="https://img.shields.io/badge/-Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white" alt="Facebook logo" height="28" />
   </a>
-  <a href="https://www.instagram.com/dear.dnl/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  <a href="https://www.instagram.com/dear.dnl/" target="_blank" title="Instagram">
+    <img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram logo" height="28" />
   </a>
-  <a href="https://www.linkedin.com/in/danielcamacho777/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  <a href="https://www.linkedin.com/in/danielcamacho777/" target="_blank" title="LinkedIn">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn logo" height="28" />
   </a>
-  <a href="danielcamacho0416@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  <a href="mailto:danielcamacho0416@gmail.com" target="_blank" title="Gmail">
+    <img src="https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Gmail logo" height="28" />
   </a>
 </div>
+
 
 ###
 
