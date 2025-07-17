@@ -22,7 +22,7 @@
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=DanielHC16&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=merko&locale=en&hide_border=false&order=1&custom_title=My%20GitHub%20Stats" height="169" alt="stats graph" />
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=DanielHC16&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=merko&hide_border=false&order=2" height="174" alt="languages graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=DanielHC16&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=merko&hide_border=false&order=2" height="178" alt="languages graph" />
   
   <img src="https://streak-stats.demolab.com?user=DanielHC16&locale=en&mode=daily&theme=merko&hide_border=false&border_radius=5&date_format=%5BY.%5Dn.j&order=3" height="160" alt="streak graph" />
 </div>
