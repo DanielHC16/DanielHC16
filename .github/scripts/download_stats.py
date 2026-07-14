@@ -37,7 +37,20 @@ def download_file(filename, url):
                 print(f"Waiting {RETRY_DELAY} seconds before retrying...")
                 time.sleep(RETRY_DELAY)
                 
-    print(f"Failed to download {filename} after {MAX_RETRIES} attempts.")
+    print(f"Failed to download {filename} from API. Attempting fallback to last known good version...")
+    try:
+        # Fallback to the current image on the output branch
+        fallback_url = f"https://raw.githubusercontent.com/DanielHC16/DanielHC16/output/{filename}"
+        fallback_req = urllib.request.Request(fallback_url, headers={'User-Agent': 'Mozilla/5.0'})
+        fallback_content = urllib.request.urlopen(fallback_req).read().decode('utf-8')
+        os.makedirs("dist", exist_ok=True)
+        with open(f"dist/{filename}", "w", encoding="utf-8") as f:
+            f.write(fallback_content)
+        print(f"Successfully restored {filename} from fallback.")
+        return True
+    except Exception as fallback_e:
+        print(f"Fallback also failed: {fallback_e}")
+        
     return False
 
 if __name__ == "__main__":
@@ -47,5 +60,5 @@ if __name__ == "__main__":
             success = False
             
     if not success:
-        print("One or more downloads failed. Exiting with error.")
+        print("One or more downloads failed permanently. Exiting with error.")
         sys.exit(1)
