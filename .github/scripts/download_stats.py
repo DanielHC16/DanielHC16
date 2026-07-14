@@ -5,9 +5,9 @@ import sys
 
 URLS = {
     "github-stats.svg": [
-        "https://github-readme-stats.vercel.app/api?username=DanielHC16&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=merko&locale=en&hide_border=false&order=1&custom_title=My%20GitHub%20Stats",
-        "https://github-readme-stats-eight-theta.vercel.app/api?username=DanielHC16&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=merko&locale=en&hide_border=false&order=1&custom_title=My%20GitHub%20Stats",
-        "https://github-readme-stats.sigma-axis.vercel.app/api?username=DanielHC16&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=merko&locale=en&hide_border=false&order=1&custom_title=My%20GitHub%20Stats"
+        "https://github-readme-stats.vercel.app/api?username=DanielHC16&hide_title=false&hide_rank=false&show_icons=true&disable_animations=false&theme=merko&locale=en&hide_border=false&order=1&custom_title=My%20GitHub%20Stats",
+        "https://github-readme-stats-eight-theta.vercel.app/api?username=DanielHC16&hide_title=false&hide_rank=false&show_icons=true&disable_animations=false&theme=merko&locale=en&hide_border=false&order=1&custom_title=My%20GitHub%20Stats",
+        "https://github-readme-stats.sigma-axis.vercel.app/api?username=DanielHC16&hide_title=false&hide_rank=false&show_icons=true&disable_animations=false&theme=merko&locale=en&hide_border=false&order=1&custom_title=My%20GitHub%20Stats"
     ],
     "github-streak.svg": [
         "https://streak-stats.demolab.com?user=DanielHC16&locale=en&mode=daily&theme=merko&hide_border=false&border_radius=5&date_format=%5BY.%5Dn.j&order=3"

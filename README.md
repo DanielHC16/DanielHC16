@@ -27,7 +27,6 @@
 
 <div align="left">
   <img src="https://raw.githubusercontent.com/DanielHC16/DanielHC16/output/github-stats.svg" height="169" alt="stats graph" />
-    
   <img src="https://raw.githubusercontent.com/DanielHC16/DanielHC16/output/github-streak.svg" height="170" alt="streak graph" />
 </div>
 
