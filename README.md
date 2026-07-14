@@ -53,6 +53,8 @@
   <img src="https://skillicons.dev/icons?i=html" height="50" alt="html logo" />
   <img width="13" />
   <img src="https://skillicons.dev/icons?i=css" height="50" alt="css logo" />
+  <img width="13" />
+  <img src="https://skillicons.dev/icons?i=sqlite" height="50" alt="sql logo" />
 </div>
 
 ###
@@ -73,6 +75,8 @@
   <img src="https://skillicons.dev/icons?i=nextjs" height="50" alt="nextjs logo" />
   <img width="13" />
   <img src="https://skillicons.dev/icons?i=tailwind" height="50" alt="tailwindcss logo" />
+  <img width="13" />
+  <img src="https://skillicons.dev/icons?i=nestjs" height="50" alt="nestjs logo" />
 </div>
 
 ###
