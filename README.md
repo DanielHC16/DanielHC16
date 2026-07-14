@@ -53,8 +53,6 @@
   <img src="https://skillicons.dev/icons?i=html" height="50" alt="html logo" />
   <img width="13" />
   <img src="https://skillicons.dev/icons?i=css" height="50" alt="css logo" />
-  <img width="13" />
-  <img src="https://skillicons.dev/icons?i=sqlite" height="50" alt="sql logo" />
 </div>
 
 ###
