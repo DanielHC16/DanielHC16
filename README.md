@@ -10,7 +10,9 @@
 
 ###
 
-![github-user-contribution](https://github.com/user-attachments/assets/a603b184-2b97-4d0a-add7-dafa26a9cca3)
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DanielHC16&theme=merko&area=true&hide_border=true&bg_color=00000000" width="95%" alt="activity graph" />
+</div>
 
 ###
 
@@ -24,9 +26,9 @@
 ###
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=DanielHC16&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=merko&locale=en&hide_border=false&order=1&custom_title=My%20GitHub%20Stats" height="169" alt="stats graph" />
+  <img src="https://raw.githubusercontent.com/DanielHC16/DanielHC16/output/github-stats.svg" height="169" alt="stats graph" />
     
-  <img src="https://streak-stats.demolab.com?user=DanielHC16&locale=en&mode=daily&theme=merko&hide_border=false&border_radius=5&date_format=%5BY.%5Dn.j&order=3" height="170" alt="streak graph" />
+  <img src="https://raw.githubusercontent.com/DanielHC16/DanielHC16/output/github-streak.svg" height="170" alt="streak graph" />
 </div>
 
 
@@ -132,3 +134,11 @@
 <h4 align="left">⭐ Let's connect, code, and create the future!</h4>
 
 ###
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DanielHC16/DanielHC16/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DanielHC16/DanielHC16/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/DanielHC16/DanielHC16/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
