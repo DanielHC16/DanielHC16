@@ -34,10 +34,10 @@
 
 <div align="center">
   <a href="https://github.com/DanielHC16">
-    <img src="https://komarev.com/ghpvc/?username=DanielHC16&label=Profile%20Views&color=68b587&style=flat-square" alt="visitor badge"/>
+    <img src="https://komarev.com/ghpvc/?username=DanielHC16&label=Profile%20Views&color=68b587&style=for-the-badge" alt="visitor badge"/>
   </a>
   <a href="https://github.com/DanielHC16/?tab=repositories&sort=stargazers">
-    <img src="https://img.shields.io/github/stars/DanielHC16?style=flat-square&color=68b587&label=Total%20Stars" alt="stars badge"/>
+    <img src="https://img.shields.io/github/stars/DanielHC16?style=for-the-badge&color=68b587&logo=github&logoColor=white&label=Total%20Stars" alt="stars badge"/>
   </a>
 </div>
 
