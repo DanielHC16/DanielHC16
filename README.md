@@ -8,18 +8,7 @@
   <a href="https://dcamacho-dev.vercel.app/"><b>Check out my portfolio</b></a>
 </p>
 
-###
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DanielHC16&theme=merko&area=true&hide_border=true&bg_color=00000000" width="95%" alt="activity graph" />
-</div>
-
-###
-
 <br clear="both">
-
-
-###
 
 <h1 align="left">GitHub Stats</h1>
 
