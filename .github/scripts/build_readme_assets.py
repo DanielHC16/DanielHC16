@@ -13,7 +13,7 @@ PALETTES = {
     "light": {"bg": "#fafafa", "surface": "#ffffff", "fg": "#1a1a1a", "accent": "#636366", "muted": "#636366", "border": "#d1d1d6", "selected": "#48484a", "selected_text": "#fafafa", "c1": "#7c7c80", "c2": "#636366", "c3": "#3a3a3c", "c4": "#1c1c1e", "c5": "#7c7c80", "c6": "#48484a"},
 }
 STACK = [
-    ("01", "LANGUAGES", ["Java", "Python", "JavaScript", "TypeScript", "HTML", "CSS"]),
+    ("01", "LANGUAGES", ["Java", "Python", "JavaScript", "TypeScript", "C"]),
     ("02", "FRAMEWORKS", ["Spring", "Express", "Node.js", "React", "Next.js", "Tailwind CSS", "NestJS"]),
     ("03", "DATABASES", ["MySQL", "PostgreSQL", "MongoDB", "Firebase"]),
     ("04", "PLATFORMS", ["Git", "AWS", "GCP", "Linux", "Vercel"]),
