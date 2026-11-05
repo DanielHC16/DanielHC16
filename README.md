@@ -33,7 +33,7 @@
 <div align="center">
 <picture>
   <source media="(prefers-color-scheme: light)" srcset="assets/nier-stack-v4-light.svg">
-  <img src="assets/nier-stack-v4-dark.svg" width="100%" alt="Languages: Java, Python, JavaScript, TypeScript, HTML, CSS. Frameworks and libraries: Spring, Express, Node.js, React, Next.js, Tailwind CSS, NestJS. Databases: MySQL, PostgreSQL, MongoDB, Firebase. Tools and platforms: Git, AWS, GCP, Linux, Vercel.">
+  <img src="assets/nier-stack-v4-dark.svg" width="100%" alt="Languages: Java, Python, JavaScript, TypeScript, C. Frameworks and libraries: Spring, Express, Node.js, React, Next.js, Tailwind CSS, NestJS. Databases: MySQL, PostgreSQL, MongoDB, Firebase. Tools and platforms: Git, AWS, GCP, Linux, Vercel.">
 </picture>
 </div>
 
