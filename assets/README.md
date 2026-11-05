@@ -75,3 +75,8 @@ python .github/scripts/bundle_activity.py --published --stats-only
 
 The inspiration folder stays ignored. None of the reference README's artwork or game
 assets is copied.
+
+Every full-width README item uses the same explicit centered paragraph wrapper,
+including all three dividers. Badge spacing follows that same block rhythm.
+Contribution GIFs are sampled at 20fps (50ms frames), preserving the original
+71.7-second loop and centered grid while reducing visible stepping.

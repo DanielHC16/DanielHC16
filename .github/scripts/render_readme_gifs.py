@@ -35,7 +35,7 @@ def activity_sources():
     for theme in ("dark", "light"):
         filename = "github-contribution-grid-snake" + ("-dark" if theme == "dark" else "") + ".svg"
         height = int(ET.parse(ASSETS / filename).getroot().get("height"))
-        sources.append((f"nier-contributions-v2-{theme}", filename, height))
+        sources.append((f"nier-contributions-v3-{theme}", filename, height))
     return sources
 
 
@@ -50,7 +50,9 @@ def scene_settings(scene):
     svg = (ASSETS / ACTIVITY[0][1]).read_text(encoding="utf-8")
     match = re.search(r"animation:[^;]*?(\d+)ms", svg)
     duration = int(match[1]) if match else 71700
-    return ACTIVITY, duration, math.ceil(duration / (1000 / 6))
+    # 50ms frames avoid the visible stepping of the previous 6fps export.
+    # Preserve the source duration and route rather than speeding up the snake.
+    return ACTIVITY, duration, math.ceil(duration / (1000 / 20))
 
 
 def render(scene):
