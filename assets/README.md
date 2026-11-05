@@ -46,8 +46,7 @@ six generated SVGs on the default branch: four source cards and the two displaye
 Unchanged images create no commit. API error artwork is rejected, cached metrics provide
 an outage fallback, concurrency is serialized, and pushes never force.
 
-This scheduled update is configured for the requested automatic daily telemetry. No
-workflow was triggered and no local changes were committed or pushed during editing.
+This scheduled update is configured for the requested automatic daily telemetry.
 The workflow uses the repository's existing Actions write permission; branch rules must
 permit those generated image updates.
 
@@ -76,7 +75,8 @@ python .github/scripts/bundle_activity.py --published --stats-only
 The inspiration folder stays ignored. None of the reference README's artwork or game
 assets is copied.
 
-Every full-width README item uses the same explicit centered paragraph wrapper,
-including all three dividers. Badge spacing follows that same block rhythm.
+Every README item uses a centered div wrapper without paragraph margins, including
+all three dividers, the portfolio link and the badge row. Only the normal image
+baseline gap remains between adjacent blocks for a compact, consistent layout.
 Contribution GIFs are sampled at 20fps (50ms frames), preserving the original
 71.7-second loop and centered grid while reducing visible stepping.
