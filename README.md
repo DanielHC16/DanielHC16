@@ -1,145 +1,70 @@
-<h1 align="left">🌊 What's up? I'm Daniel</h1>
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="assets/nier-header-v5-light.gif">
+  <img src="assets/nier-header-v5-dark.gif" width="100%" alt="Daniel Camacho / SOFTWARE ENGINEER. D-16 at the side, with assembling triangular cube geometry and static wording.">
+</picture>
 
-###
+<picture>
+  <source media="(max-width: 600px) and (prefers-color-scheme: light)" srcset="assets/nier-intro-mobile-v5-light.svg">
+  <source media="(max-width: 600px)" srcset="assets/nier-intro-mobile-v5-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/nier-intro-v5-light.svg">
+  <img src="assets/nier-intro-v5-dark.svg" width="100%" alt="What's up? I'm Daniel. A dedicated Software Engineer specializing in Backend Development, with diverse experience in software development and a strong passion for problem solving. I love turning complex challenges into elegant, efficient solutions that make a real difference.">
+</picture>
 
-<p align="left">A dedicated Software Engineer specializing in Backend Development, with diverse experience in software development and a strong passion for problem solving. I love turning complex challenges into elegant, efficient solutions that make a real difference.</p>
+<p align="center"><a href="https://dcamacho-dev.vercel.app/"><picture><source media="(prefers-color-scheme: light)" srcset="assets/nier-link-portfolio-v2-light.svg"><img src="assets/nier-link-portfolio-v2-dark.svg" width="100%" alt="View my portfolio"></picture></a></p>
 
-<p align="left">
-  <a href="https://dcamacho-dev.vercel.app/"><b>Check out my portfolio</b></a>
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="assets/nier-divider-v3-light.gif">
+  <img src="assets/nier-divider-v3-dark.gif" width="100%" alt="">
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="assets/nier-section-loadout-v3-light.svg">
+  <img src="assets/nier-section-loadout-v3-dark.svg" width="100%" alt="TECHNICAL LOADOUT">
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="assets/nier-stack-v4-light.svg">
+  <img src="assets/nier-stack-v4-dark.svg" width="100%" alt="Languages: Java, Python, JavaScript, TypeScript, HTML, CSS. Frameworks and libraries: Spring, Express, Node.js, React, Next.js, Tailwind CSS, NestJS. Databases: MySQL, PostgreSQL, MongoDB, Firebase. Tools and platforms: Git, AWS, GCP, Linux, Vercel.">
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="assets/nier-divider-v3-light.gif">
+  <img src="assets/nier-divider-v3-dark.gif" width="100%" alt="">
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="assets/nier-section-telemetry-v3-light.svg">
+  <img src="assets/nier-section-telemetry-v3-dark.svg" width="100%" alt="GITHUB TELEMETRY">
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="assets/github-telemetry-light.svg">
+  <img src="assets/github-telemetry.svg" width="100%" alt="Daniel's GitHub statistics and contribution streak, aligned side by side across the full width.">
+</picture>
+
+<p align="center">
+  <a href="https://github.com/DanielHC16"><img src="https://komarev.com/ghpvc/?username=DanielHC16&amp;label=Profile%20Views&amp;color=636366&amp;style=flat-square" alt="Profile views"></a>
+  <a href="https://github.com/DanielHC16?tab=repositories&amp;sort=stargazers"><img src="https://img.shields.io/github/stars/DanielHC16?style=flat-square&amp;color=636366&amp;logo=github&amp;logoColor=white&amp;label=Total%20Stars" alt="Total GitHub stars"></a>
+  <br>
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="assets/nier-divider-v3-light.gif">
+  <img src="assets/nier-divider-v3-dark.gif" width="100%" alt="">
+</picture>
 </p>
 
-<br clear="both">
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="assets/nier-section-contributions-v3-light.svg">
+  <img src="assets/nier-section-contributions-v3-dark.svg" width="100%" alt="CONTRIBUTION FIELD">
+</picture>
 
-<h1 align="left">GitHub Stats</h1>
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="assets/nier-contributions-v2-light.gif">
+  <img src="assets/nier-contributions-v2-dark.gif" width="100%" alt="Animated snake moving through Daniel's GitHub contributions, in silver and grayscale.">
+</picture>
 
-###
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="assets/nier-footer-v4-light.gif">
+  <img src="assets/nier-footer-v4-dark.gif" width="100%" alt="LET'S CONNECT, CODE, AND CREATE THE FUTURE. NieR-inspired diamonds and segmented rings animate slowly.">
+</picture>
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/DanielHC16/DanielHC16/output/github-stats.svg" width="48%" alt="stats graph" />
-  <img src="https://raw.githubusercontent.com/DanielHC16/DanielHC16/output/github-streak.svg" width="48%" alt="streak graph" />
-</div>
-
-###
-
-<div align="center">
-  <a href="https://github.com/DanielHC16">
-    <img src="https://komarev.com/ghpvc/?username=DanielHC16&label=Profile%20Views&color=68b587&style=for-the-badge" alt="visitor badge"/>
-  </a>
-  <a href="https://github.com/DanielHC16/?tab=repositories&sort=stargazers">
-    <img src="https://img.shields.io/github/stars/DanielHC16?style=for-the-badge&color=68b587&logo=github&logoColor=white&label=Total%20Stars" alt="stars badge"/>
-  </a>
-</div>
-
-
-
-
-<h1 align="left">Tech Stack</h1>
-
-###
-
-<h3 align="left">Languages</h3>
-
-###
-
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=java" height="50" alt="java logo" />
-  <img width="13" />
-  <img src="https://skillicons.dev/icons?i=py" height="50" alt="python logo" />
-  <img width="13" />
-  <img src="https://skillicons.dev/icons?i=javascript" height="50" alt="javascript logo" />
-  <img width="13" />
-  <img src="https://skillicons.dev/icons?i=typescript" height="50" alt="typescript logo" />
-  <img width="13" />
-  <img src="https://skillicons.dev/icons?i=html" height="50" alt="html logo" />
-  <img width="13" />
-  <img src="https://skillicons.dev/icons?i=css" height="50" alt="css logo" />
-</div>
-
-###
-
-<h3 align="left">Frameworks & Libraries</h3>
-
-###
-
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=spring" height="50" alt="spring logo" />
-  <img width="13" />
-  <img src="https://skillicons.dev/icons?i=express" height="50" alt="express logo" />
-  <img width="13" />
-  <img src="https://skillicons.dev/icons?i=nodejs" height="50" alt="nodejs logo" />
-  <img width="13" />
-  <img src="https://skillicons.dev/icons?i=react" height="50" alt="react logo" />
-  <img width="13" />
-  <img src="https://skillicons.dev/icons?i=nextjs" height="50" alt="nextjs logo" />
-  <img width="13" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="50" alt="tailwindcss logo" />
-  <img width="13" />
-  <img src="https://skillicons.dev/icons?i=nestjs" height="50" alt="nestjs logo" />
-</div>
-
-###
-
-<h3 align="left">Databases</h3>
-
-###
-
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=mysql" height="50" alt="mysql logo" />
-  <img width="13" />
-  <img src="https://skillicons.dev/icons?i=postgresql" height="50" alt="postgresql logo" />
-  <img width="13" />
-  <img src="https://skillicons.dev/icons?i=mongodb" height="50" alt="mongodb logo" />
-  <img width="13" />
-  <img src="https://skillicons.dev/icons?i=firebase" height="50" alt="firebase logo" />
-</div>
-
-###
-
-<h3 align="left">Tools & Platforms</h3>
-
-###
-
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=git" height="50" alt="git logo" />
-  <img width="13" />
-  <img src="https://skillicons.dev/icons?i=aws" height="50" alt="amazonwebservices logo" />
-  <img width="13" />
-  <img src="https://skillicons.dev/icons?i=gcp" height="50" alt="googlecloud logo" />
-  <img width="13" />
-  <img src="https://skillicons.dev/icons?i=linux" height="50" alt="linux logo" />
-  <img width="13" />
-  <img src="https://skillicons.dev/icons?i=vercel" height="50" alt="vercel logo" />
-</div>
-
-
-###
-
-<div align="left" style="display: flex; gap: 8px; flex-wrap: wrap;">
-  <a href="https://www.facebook.com/hardy.0777" target="_blank" title="Facebook">
-    <img src="https://img.shields.io/badge/-Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white" alt="Facebook logo" height="28" />
-  </a>
-  <a href="https://www.instagram.com/dear.dnl/" target="_blank" title="Instagram">
-    <img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram logo" height="28" />
-  </a>
-  <a href="https://www.linkedin.com/in/danielcamacho777/" target="_blank" title="LinkedIn">
-    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn logo" height="28" />
-  </a>
-  <a href="mailto:danielcamacho0416@gmail.com" target="_blank" title="Gmail">
-    <img src="https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Gmail logo" height="28" />
-  </a>
-</div>
-
-
-###
-
-<h4 align="left">⭐ Let's connect, code, and create the future!</h4>
-
-###
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DanielHC16/DanielHC16/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DanielHC16/DanielHC16/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/DanielHC16/DanielHC16/output/github-contribution-grid-snake.svg">
-  </picture>
-</div>
+<p align="center"><a href="https://www.facebook.com/hardy.0777"><picture><source media="(prefers-color-scheme: light)" srcset="assets/nier-link-facebook-light.svg"><img src="assets/nier-link-facebook-dark.svg" width="136" alt="Facebook"></picture></a> <a href="https://www.instagram.com/dear.dnl/"><picture><source media="(prefers-color-scheme: light)" srcset="assets/nier-link-instagram-light.svg"><img src="assets/nier-link-instagram-dark.svg" width="136" alt="Instagram"></picture></a> <a href="https://www.linkedin.com/in/danielcamacho777/"><picture><source media="(prefers-color-scheme: light)" srcset="assets/nier-link-linkedin-light.svg"><img src="assets/nier-link-linkedin-dark.svg" width="136" alt="LinkedIn"></picture></a> <a href="mailto:danielcamacho0416@gmail.com"><picture><source media="(prefers-color-scheme: light)" srcset="assets/nier-link-email-light.svg"><img src="assets/nier-link-email-dark.svg" width="136" alt="Email Daniel"></picture></a></p>

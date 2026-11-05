@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="160" height="36" viewBox="0 0 160 36" role="img" aria-labelledby="title desc">
+<title id="title">PORTFOLIO</title><desc id="desc">Open Daniel&#x27;s portfolio.</desc>
+<defs><style>:root{--bg:#fafafa;--surface:#ffffff;--fg:#1a1a1a;--accent:#636366;--muted:#636366;--border:#d1d1d6;--selected:#48484a;--selected_text:#fafafa;--c1:#7c7c80;--c2:#636366;--c3:#3a3a3c;--c4:#1c1c1e;--c5:#7c7c80;--c6:#48484a}
+text{font-family:'Segoe UI',Arial,sans-serif;fill:var(--fg)}
+.mono{font-family:'Consolas','Courier New',monospace;letter-spacing:1.5px}
+.muted{fill:var(--muted)}.selected-text{fill:var(--selected_text)}
+.line{fill:none;stroke:var(--border);stroke-width:1}.accent-line{fill:none;stroke:var(--accent);stroke-width:1}
+.chrome{fill:url(#chrome)}
+@keyframes orbit{to{transform:rotate(360deg)}}
+@keyframes counter-orbit{to{transform:rotate(-360deg)}}
+@keyframes slow-pulse{0%,100%{opacity:.45}50%{opacity:1}}
+@keyframes cube-assembly{0%,10%,100%{transform:translate(var(--dx),var(--dy));opacity:.35}36%,66%{transform:translate(0,0);opacity:1}90%{transform:translate(var(--dx),var(--dy));opacity:.35}}
+.cube-face{animation:cube-assembly 12s cubic-bezier(.22,1,.36,1) infinite}
+.orbit{animation:orbit 12s linear infinite}
+.counter-orbit{animation:counter-orbit 12s linear infinite}
+.slow-pulse{animation:slow-pulse 4s ease-in-out infinite}
+@media(prefers-reduced-motion:reduce){*{animation:none!important}}
+</style><linearGradient id="chrome" x1="0" y1="0" x2="0" y2="1"><stop offset="0%" stop-color="var(--c1)"/><stop offset="35%" stop-color="var(--c2)"/><stop offset="49%" stop-color="var(--c3)"/><stop offset="51%" stop-color="var(--c4)"/><stop offset="70%" stop-color="var(--c5)"/><stop offset="100%" stop-color="var(--c6)"/></linearGradient></defs>
+<rect width="160" height="36" fill="var(--bg)"/><rect x=".5" y=".5" width="159" height="35" fill="var(--selected)" stroke="var(--accent)" stroke-opacity=".8"/><text x="11" y="22" font-size="9" class="mono selected-text" >01</text><path d="M32 8V28" stroke="var(--selected_text)"/><text x="43" y="23" font-size="11" class="mono selected-text" >PORTFOLIO</text><text x="147" y="22" font-size="15" class="mono selected-text" text-anchor="middle">›</text></svg>

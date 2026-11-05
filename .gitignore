@@ -1,0 +1,5 @@
+# Local previews and generated workflow output.
+.preview/
+dist/
+__pycache__/
+*.pyc

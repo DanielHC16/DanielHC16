@@ -5,22 +5,30 @@ on:
     - cron: "0 0,12 * * *" # Run twice a day (midnight and noon)
   workflow_dispatch: # Allow manual triggers
 
+concurrency:
+  group: profile-assets
+  cancel-in-progress: false
+
 jobs:
   build:
+    if: github.ref == format('refs/heads/{0}', github.event.repository.default_branch)
     runs-on: ubuntu-latest
     permissions:
       contents: write
     steps:
       - name: Checkout Repository
         uses: actions/checkout@v4
+        with:
+          ref: ${{ github.event.repository.default_branch }}
+          fetch-depth: 0
         
       - name: Generate Snake
         uses: Platane/snk@v3
         with:
           github_user_name: DanielHC16
           outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+            dist/github-contribution-grid-snake.svg?color_snake=%23636366&color_dots=%23e0e0e0,%23d1d1d6,%238a8a8a,%23636366,%231a1a1a
+            dist/github-contribution-grid-snake-dark.svg?color_snake=%23e5e5ea&color_dots=%232a2a2a,%2348484a,%237c7c80,%23aeaeb2,%23e5e5ea
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
@@ -34,6 +42,34 @@ jobs:
           
       - name: Download Static Stats
         run: python .github/scripts/download_stats.py
+
+      - name: Bundle displayed telemetry cards
+        run: python .github/scripts/bundle_activity.py --stats-only
+
+      # Once published, refresh the source cards and full-width displayed pairs.
+      # No workflow is triggered by local edits to this file.
+      - name: Refresh displayed telemetry on the default branch
+        env:
+          DEFAULT_BRANCH: ${{ github.event.repository.default_branch }}
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add assets/github-stats.svg assets/github-stats-light.svg assets/github-streak.svg assets/github-streak-light.svg assets/github-telemetry.svg assets/github-telemetry-light.svg
+          if git diff --cached --quiet; then
+            exit 0
+          fi
+          git commit -m 'chore: refresh GitHub telemetry'
+          git pull --rebase origin "$DEFAULT_BRANCH"
+          git push origin "HEAD:$DEFAULT_BRANCH"
+
+      - name: Keep a copy of the refreshed telemetry cards
+        uses: actions/upload-artifact@v4
+        with:
+          name: profile-activity-images
+          path: |
+            assets/github-stats*.svg
+            assets/github-streak*.svg
+            assets/github-telemetry*.svg
           
       - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0

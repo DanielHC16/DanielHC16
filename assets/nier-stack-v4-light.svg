@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="240" viewBox="0 0 900 240" role="img" aria-labelledby="title desc">
+<title id="title">Technical loadout</title><desc id="desc">LANGUAGES: Java, Python, JavaScript, TypeScript, HTML, CSS. FRAMEWORKS: Spring, Express, Node.js, React, Next.js, Tailwind CSS, NestJS. DATABASES: MySQL, PostgreSQL, MongoDB, Firebase. PLATFORMS: Git, AWS, GCP, Linux, Vercel</desc>
+<defs><style>:root{--bg:#fafafa;--surface:#ffffff;--fg:#1a1a1a;--accent:#636366;--muted:#636366;--border:#d1d1d6;--selected:#48484a;--selected_text:#fafafa;--c1:#7c7c80;--c2:#636366;--c3:#3a3a3c;--c4:#1c1c1e;--c5:#7c7c80;--c6:#48484a}
+text{font-family:'Segoe UI',Arial,sans-serif;fill:var(--fg)}
+.mono{font-family:'Consolas','Courier New',monospace;letter-spacing:1.5px}
+.muted{fill:var(--muted)}.selected-text{fill:var(--selected_text)}
+.line{fill:none;stroke:var(--border);stroke-width:1}.accent-line{fill:none;stroke:var(--accent);stroke-width:1}
+.chrome{fill:url(#chrome)}
+@keyframes orbit{to{transform:rotate(360deg)}}
+@keyframes counter-orbit{to{transform:rotate(-360deg)}}
+@keyframes slow-pulse{0%,100%{opacity:.45}50%{opacity:1}}
+@keyframes cube-assembly{0%,10%,100%{transform:translate(var(--dx),var(--dy));opacity:.35}36%,66%{transform:translate(0,0);opacity:1}90%{transform:translate(var(--dx),var(--dy));opacity:.35}}
+.cube-face{animation:cube-assembly 12s cubic-bezier(.22,1,.36,1) infinite}
+.orbit{animation:orbit 12s linear infinite}
+.counter-orbit{animation:counter-orbit 12s linear infinite}
+.slow-pulse{animation:slow-pulse 4s ease-in-out infinite}
+@media(prefers-reduced-motion:reduce){*{animation:none!important}}
+</style><linearGradient id="chrome" x1="0" y1="0" x2="0" y2="1"><stop offset="0%" stop-color="var(--c1)"/><stop offset="35%" stop-color="var(--c2)"/><stop offset="49%" stop-color="var(--c3)"/><stop offset="51%" stop-color="var(--c4)"/><stop offset="70%" stop-color="var(--c5)"/><stop offset="100%" stop-color="var(--c6)"/></linearGradient></defs>
+<rect width="900" height="240" fill="var(--bg)"/><rect x="24" y="24" width="29" height="26" fill="var(--surface)"/><text x="38.5" y="42" font-size="10" class="mono muted" text-anchor="middle">01</text><text x="65" y="42" font-size="11" class="mono muted" >LANGUAGES</text><text x="218" y="42" font-size="15.5" class="" xml:space="preserve" style="white-space:pre">Java   ·   Python   ·   JavaScript   ·   TypeScript   ·   HTML   ·   CSS</text><path class="line" d="M218 68H876" stroke-opacity=".55"/><rect x="24" y="77" width="29" height="26" fill="var(--surface)"/><text x="38.5" y="95" font-size="10" class="mono muted" text-anchor="middle">02</text><text x="65" y="95" font-size="11" class="mono muted" >FRAMEWORKS</text><text x="218" y="95" font-size="15.5" class="" xml:space="preserve" style="white-space:pre">Spring   ·   Express   ·   Node.js   ·   React   ·   Next.js   ·   Tailwind CSS   ·   NestJS</text><path class="line" d="M218 121H876" stroke-opacity=".55"/><rect x="24" y="130" width="29" height="26" fill="var(--surface)"/><text x="38.5" y="148" font-size="10" class="mono muted" text-anchor="middle">03</text><text x="65" y="148" font-size="11" class="mono muted" >DATABASES</text><text x="218" y="148" font-size="15.5" class="" xml:space="preserve" style="white-space:pre">MySQL   ·   PostgreSQL   ·   MongoDB   ·   Firebase</text><path class="line" d="M218 174H876" stroke-opacity=".55"/><rect x="24" y="183" width="29" height="26" fill="var(--surface)"/><text x="38.5" y="201" font-size="10" class="mono muted" text-anchor="middle">04</text><text x="65" y="201" font-size="11" class="mono muted" >PLATFORMS</text><text x="218" y="201" font-size="15.5" class="" xml:space="preserve" style="white-space:pre">Git   ·   AWS   ·   GCP   ·   Linux   ·   Vercel</text></svg>
