@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="900" height="175" viewBox="0 0 900 175" role="img" aria-labelledby="telemetry-title"><title id="telemetry-title">Daniel Camacho's GitHub statistics and contribution streak</title><svg width="444" height="175" viewBox="0 0 467 195" fill="none" role="img" aria-labelledby="descId" x="0" y="0">
         <title id="stats-titleId">My GitHub Stats, Rank: A-</title>
-        <desc id="stats-descId">Total Stars Earned: 19, Total Commits  (last year) : 751, Total PRs: 165, Total Issues: 43, Contributed to (last year): 3</desc>
+        <desc id="stats-descId">Total Stars Earned: 19, Total Commits  (last year) : 695, Total PRs: 165, Total Issues: 43, Contributed to (last year): 3</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -64,7 +64,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 83.78250802461645;
+        stroke-dashoffset: 84.65954820038446;
       }
     }
   
@@ -136,7 +136,7 @@
     </svg>
   
       <text class="stat  bold" x="25" y="12.5">Total Commits (last year):</text>
-      <text class="stat  bold" x="219.01" y="12.5" data-testid="commits">751</text>
+      <text class="stat  bold" x="219.01" y="12.5" data-testid="commits">695</text>
     </g>
   </g><g transform="translate(0, 50)">
     <g class="stagger" style="animation-delay: 750ms" transform="translate(25, 0)">
@@ -172,7 +172,7 @@
     </svg>
   
         </g>
-      <style data-profile-style="static">*{animation:none!important}.stagger,[style*="animation"]{opacity:1!important}.rank-circle{stroke-dashoffset:83.78250802461645!important}</style></svg><svg style="isolation: isolate" viewBox="0 0 495 195" width="444" height="175" direction="ltr" x="456" y="0">
+      <style data-profile-style="static">*{animation:none!important}.stagger,[style*="animation"]{opacity:1!important}.rank-circle{stroke-dashoffset:84.65954820038446!important}</style></svg><svg style="isolation: isolate" viewBox="0 0 495 195" width="444" height="175" direction="ltr" x="456" y="0">
         
         <defs>
             <clipPath id="streak-outer_rectangle">
