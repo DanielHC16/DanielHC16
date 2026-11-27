@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="467" height="195" viewBox="0 0 467 195" fill="none" role="img" aria-labelledby="descId">
         <title id="titleId">My GitHub Stats, Rank: A-</title>
-        <desc id="descId">Total Stars Earned: 19, Total Commits  (last year) : 695, Total PRs: 165, Total Issues: 43, Contributed to (last year): 3</desc>
+        <desc id="descId">Total Stars Earned: 19, Total Commits  (last year) : 695, Total PRs: 165, Total Issues: 43, Contributed to (last year): 2</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -166,7 +166,7 @@
     </svg>
   
       <text class="stat  bold" x="25" y="12.5">Contributed to (last year):</text>
-      <text class="stat  bold" x="219.01" y="12.5" data-testid="contribs">3</text>
+      <text class="stat  bold" x="219.01" y="12.5" data-testid="contribs">2</text>
     </g>
   </g>
     </svg>
